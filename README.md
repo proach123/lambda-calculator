@@ -77,9 +77,9 @@ const [numberState, setNumberState] = useState(numbers);
 
 **STEP 4**
 
-- [ ] Import the wrapper button components into `App.js`
-- [ ] Import the display components into `App.js` as well
-- [ ] Compose all the components inside the `App` component to get your calculator rendering on the DOM
+- [x] Import the wrapper button components into `App.js`
+- [x] Import the display components into `App.js` as well
+- [x] Compose all the components inside the `App` component to get your calculator rendering on the DOM
 
 
 **STEP 5 - (STRETCH)**
